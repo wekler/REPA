@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "REPA",
+			"path": "."
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local"
+	}
+}
